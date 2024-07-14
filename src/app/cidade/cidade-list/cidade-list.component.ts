@@ -31,7 +31,7 @@ export class CidadeListComponent {
     detail: 'cidades/detail/:id',
     edit: 'cidades/edit/:id',
     new: 'cidades/new',
-    remove: true
+    remove: false
   }
 
 /*
